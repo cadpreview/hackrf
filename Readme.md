@@ -1,5 +1,7 @@
 # HackRF
 
+[![View in CADPreview](http://cadpreview:8000/static/img/git_badge.svg)](http://cadpreview:8000/open_ui?url=cadpreview/hackrf/tree/main/)
+
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
 
